@@ -19,7 +19,15 @@
     background-color:lightgreen;
 }
 
-
 .navigation {
     margin:30px 0;
+}
+
+.info {
+    display:flex;
+    justify-content: space-around;
+}
+
+.info>div {
+    padding:10px;
 }
