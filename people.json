@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "fname": "Jan",
+        "sname": "Kowalski",
+        "birthdate": "2013-07-08",
+        "sex": "M"
+    },
+    {
+        "id": 2,
+        "fname": "Jan",
+        "sname": "Disney",
+        "birthdate": "2008-04-30",
+        "sex": "M"
+    },
+    {
+        "id": 3,
+        "fname": "Patryk",
+        "sname": "Kowalski",
+        "birthdate": "1977-03-11",
+        "sex": "M"
+    },
+    {
+        "id": 4,
+        "fname": "Czesław",
+        "sname": "Majtak",
+        "birthdate": "1982-09-12",
+        "sex": "M"
+    },
+    {
+        "id": 5,
+        "fname": "Walt",
+        "sname": "Myszak",
+        "birthdate": "1990-11-15",
+        "sex": "W"
+    },
+    {
+        "id": 6,
+        "fname": "Jon",
+        "sname": "Snow",
+        "birthdate": "1992-07-02",
+        "sex": "W"
+    },
+    {
+        "id": 7,
+        "fname": "Andrzej",
+        "sname": "Kostecki",
+        "birthdate": "2010-07-08",
+        "sex": "M"
+    }
+]

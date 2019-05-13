@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grid table {
+    table-layout: fixed;
+    width:80%;
+    margin:0 auto;
+}
+.grid table td {
+    border: 2px solid black;
+    padding: 3px;
+    border-radius: 10px;
+}
+.grid table tr:nth-child(odd) {
+    background-color:lightgray;
+}
+.grid table tr:hover {
+    background-color:lightgreen;
+}
+
+
+.navigation {
+    margin:30px 0;
+}
